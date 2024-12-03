@@ -1,0 +1,51 @@
+
+h1{font-family: 'Kaushan Script', cursive;
+    color: #fec907;
+    font-size: 50px;
+    padding-bottom: 5%;
+}
+
+p{
+    color: white;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#sobre{
+    background: linear-gradient(black 40%, rgb(95, 9, 9));
+}
+
+#contacto{
+    background: linear-gradient(black 40%, rgb(95, 9, 9));
+}
+
+#inf{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+h2{font-family: 'Kaushan Script', cursive;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 1%;
+
+}
+
+h3{ color: white;
+    font-size: 18px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 2%;
+    padding-top: 2%;
+
+}
+
+#izquierda{
+    text-align: end;
+}
+
+footer{
+    border-top: solid 1px white;
+    padding-left: 4%;
+    padding-right: 4%;
+    clear: both;
+}
